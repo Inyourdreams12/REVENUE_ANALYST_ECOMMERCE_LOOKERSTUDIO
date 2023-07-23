@@ -18,7 +18,7 @@ Understand the revenue for our online e-commerce store
 • Use Looker to Join main data to Holiday date data/ Add field/ Create field/ Build Chart <br/>
 
 
-DASHBOARD LINK: <a href="[https://public.tableau.com/app/profile/lucian6345/viz/SALEDATAVISUALIZATION/Dashboard1?publish=yes" target="_blank](https://lookerstudio.google.com/reporting/5038e02a-1b2d-42f6-99e6-84f8f91da137/page/z5qXD)https://lookerstudio.google.com/reporting/5038e02a-1b2d-42f6-99e6-84f8f91da137/page/z5qXD">Revenue Analyst</a>
+Looker Studio Link: <a href="https://lookerstudio.google.com/reporting/5038e02a-1b2d-42f6-99e6-84f8f91da137/page/z5qXD">Revenue Analyst</a> (fullscreen mode recommend)	
 <pre>
 
 
