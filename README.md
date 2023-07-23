@@ -27,5 +27,6 @@ Looker Studio Link(interactive): <a href="https://lookerstudio.google.com/report
    
 </pre>
 <img width="983" alt="image" src="https://github.com/Inyourdreams12/REVENUE_ANALYST_ECOMMERCE_LOOKERSTUDIO/assets/119731058/da96e80f-3592-4f92-8602-5e09e958e686">
-<img width="983" alt="image" src="https://github.com/Inyourdreams12/REVENUE_ANALYST_ECOMMERCE_LOOKERSTUDIO/assets/119731058/2fa46c48-5c20-42eb-8ef6-e03c6f3272ee">
+<img width="983" alt="image" src="https://github.com/Inyourdreams12/REVENUE_ANALYST_ECOMMERCE_LOOKERSTUDIO/assets/119731058/649a156a-e11c-44ab-9e82-ae443261bc9c">
+
 
