@@ -14,7 +14,7 @@ Understand the revenue for our online e-commerce store
 
 
 ## Methods: 
-• Cleaning data in Google sheet <br/>
+• Cleaning data in Google sheet <a href="https://docs.google.com/spreadsheets/d/1Rn7SBv-MQQhCbNhfW8hSTuVPNBCSI1TZXek1VWzaEYQ/edit#gid=1814006335">Link</a> <br/> 
 • Use Looker to Join main data to Holiday date data/ Add field/ Create field/ Build Chart <br/>
 
 
