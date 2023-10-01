@@ -1,6 +1,6 @@
 # [LOOKER STUDIO] REVENUE ANALYST E-COMMERCE
 
-This repository contains the data for a project that I worked on as a 2010-2011 E-commerce Revenue Analyst using Looker Studio. The project involved analyzing revenue data from a retailer to identify trends and insights that could be used to improve business performance.
+This repository contains the data for a project that I worked on as a 2010-2011 E-commerce Revenue Analyst using Looker Studio. The project involved analyzing revenue data to identify trends and insights that could be used to improve business performance.
 
 
 ## Objective: 
