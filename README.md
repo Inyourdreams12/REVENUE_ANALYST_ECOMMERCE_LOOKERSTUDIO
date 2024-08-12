@@ -10,7 +10,7 @@ Understand the revenue for our online e-commerce store
 ## Critical Questions:
 • Is revenue growing monthly? <br/>
 • What is the best time and day for customers? <br/>
-• What product is ordered the most?
+• What product is ordered the most? 
 
 
 ## Methods: 
